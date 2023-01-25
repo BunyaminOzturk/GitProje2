@@ -6,5 +6,6 @@ public class Ogrenci {
             System.out.println("Hello World!");
         }
         System.out.println("2nd task is: Hello Java!");
+        System.out.println("3th task: Hello Android!!!");
     }
 }
